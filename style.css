@@ -1,0 +1,41 @@
+body{
+    background: rgb(148, 148, 248);
+    text-align: center;
+
+    /* tenho que usar essa fonte global aqui embaixo . */
+    font: normal 15pt Arial;
+}
+
+header{
+    font-style: normal;
+    font-size: 40px;
+
+    /* nao lembrava :*/
+    color: white;
+}
+
+section{
+    font-style: normal;
+    font-size: 40px;
+    color: rgb(37, 37, 30);
+
+    /* esse codigos css aqui embaixo, nao lembrava : */
+    background: white;
+    border-radius: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.274);
+}
+
+div{
+    
+}
+
+footer{
+    font-size: 40px;
+    padding-top: 50px;
+
+    /* nao lembrava :*/
+    font-style: italic;
+    color: white;
+}
